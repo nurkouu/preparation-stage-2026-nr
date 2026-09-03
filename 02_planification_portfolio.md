@@ -51,7 +51,7 @@ Mention académique ou personnel: Académique
 Réalisé dans le cadre du cours: Vidéo 2 - 582312MO       
 Individuel ou en équipe: Équipe    
 Nom de vos coéquipiers: Manel Yaya et Sarah Muller François     
-Votre ou vos rôle(s) dans le projet: Cadreuse, Monteuse vidéo / sonore.    
+Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore.    
 Logiciels ou techniques utilisées: Davinci Resolve   
 Catégorie du projet: Montage Vidéo     
 Description courte du projet (Résumé en 1 phrase): Une jeune fille se maquille pour se sentir mieux dans sa peau, mais elle réalise peu à peu qu’elle n’a pas besoin de maquillage ni de l’approbation des autres pour se sentir belle.    
@@ -60,15 +60,15 @@ Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Nous de
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 2 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
+Nom de votre projet: Armorade    
+Mention académique ou personnel: Académique    
+Réalisé dans le cadre du cours: Intéractivité ludique - 582-301MO      
+Individuel ou en équipe: Individuelle    
+Nom de vos coéquipiers: ...
+Votre ou vos rôle(s) dans le projet: Game designeuse et programmeuse.     
+Logiciels ou techniques utilisées: Phaser v3 et HTML5   
+Catégorie du projet: Jeux Vidéo     
+Description courte du projet (Résumé en 1 phrase): Armorade est un jeu d’aventure en 2D où une chasseuse explore une forêt mystérieuse, améliore ses capacités et affronte des ennemis pour s’échapper.    
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
