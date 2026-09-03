@@ -1,8 +1,8 @@
 # Compétences
 Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoin.:     
-- [ ] Designer, coder et publier des sites Web dynamiques    
-- [ ] Réaliser et tourner des vidéos    
-- [ ] Animer des créations 2D et 3D    
+- [ x] Designer, coder et publier des sites Web dynamiques    
+- [ x] Réaliser et tourner des vidéos    
+- [ x] Animer des créations 2D et 3D    
 - [ ] Concevoir des compositions sonores et visuelles interactives    
 - [ ] Assembler des environnements de réalité virtuelle    
 - [ ] Élaborer des spectacles augmentés    
