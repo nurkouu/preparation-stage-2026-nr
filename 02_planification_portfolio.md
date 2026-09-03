@@ -14,15 +14,15 @@ Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoi
 
 # Logiciels 
 Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:     
-- [ ] Visual Studio Code
+- [ x] Visual Studio Code
 - [ ] Photoshop
 - [ ] Illustrator
 - [ ] Lightroom
 - [ ] Premiere
 - [ ] Media Encoder
 - [ ] After Effects
-- [ ] Davinci Resolve
-- [ ] Maya
+- [ x] Davinci Resolve
+- [ x] Maya
 - [ ] Unity
 - [ ] Reaper
 - [ ] Ableton Live
@@ -33,8 +33,8 @@ Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 
 # Langage de programmation
 Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:    
-- [ ] HTML
-- [ ] CSS
+- [ x] HTML
+- [ x] CSS
 - [ ] JavaScript
 - [ ] PHP
 - [ ] SQL
@@ -46,17 +46,17 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 Copier-coller votre objectif de carrière ici. 
 
 # Projet 1 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Nom de votre projet: Imparfaite  
+Mention académique ou personnel: Académique    
+Réalisé dans le cadre du cours: Vidéo 2 - 582312MO       
+Individuel ou en équipe: Équipe    
+Nom de vos coéquipiers: Manel Yaya et Sarah Muller François     
+Votre ou vos rôle(s) dans le projet: Cadreuse, Monteuse vidéo / sonore.    
+Logiciels ou techniques utilisées: Davinci Resolve   
+Catégorie du projet: Montage Vidéo     
+Description courte du projet (Résumé en 1 phrase): Une jeune fille se maquille pour se sentir mieux dans sa peau, mais elle réalise peu à peu qu’elle n’a pas besoin de maquillage ni de l’approbation des autres pour se sentir belle.    
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): On devait créer une vidéo expérimentale de 1 minute 30 sur le corps humain, où l’accumulation d’images et de sons exprime une émotion, une matière ou raconte une histoire sans paroles. L’objectif était d’utiliser le corps comme langage visuel et sonore, à travers une approche sensorielle, poétique ou abstraite.     
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Nous devions filmer 20 parties différentes du corps en utilisant les outils fournis et intégrer des effets visuels comme le ralenti, l’accélération et des mouvements fluides. Nous devions aussi créer un micro-montage sonore en ajoutant des effets comme l’inversion, la réverbération et des variations de fréquences.    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 2 
