@@ -69,22 +69,22 @@ Votre ou vos rôle(s) dans le projet: Game designeuse et programmeuse.
 Logiciels ou techniques utilisées: Phaser v3 et HTML5   
 Catégorie du projet: Jeux Vidéo     
 Description courte du projet (Résumé en 1 phrase): Armorade est un jeu d’aventure en 2D où une chasseuse explore une forêt mystérieuse, améliore ses capacités et affronte des ennemis pour s’échapper.    
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Le professeur voulait que nous utilisions des mécaniques de progression simples, puisque ce serait notre premier jeu vidéo. Il voulait aussi que nous ayons des prérequis afin que le jeu soit plus amusant à jouer et qu’il ait réellement un objectif.    
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Je voulais créer un jeu avec une thématique d’aventure, ce qui m’a fait penser à une chasseuse, mais ce n’était pas mon idée de départ. Après les commentaires du professeur, beaucoup de choses ont changé et j’ai finalement décidé de m’inspirer du concept et des mécaniques classiques de Rayman Adventures, surtout le fait de récolter des pièces pour acheter des objets ou débloquer certaines choses, plutôt que de reprendre son esthétique.    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 
 # Projet 3 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
+Nom de votre projet: Liquid Loom    
+Mention académique ou personnel: Académique    
+Réalisé dans le cadre du cours: Web 4 - 582-411MO       
+Individuel ou en équipe: Individuelle    
+Nom de vos coéquipiers: ...     
 Votre ou vos rôle(s) dans le projet:     
 Logiciels ou techniques utilisées:    
-Catégorie du projet:      
+Catégorie du projet: Web     
 Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  On devait concevoir un site web WordPress complet pour un client ayant une petite entreprise. L’objectif était de créer un site qui pourrait réellement être mis en ligne pour une entreprise, tant au niveau du contenu que de l’apparence.   
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
