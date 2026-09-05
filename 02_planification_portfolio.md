@@ -96,7 +96,7 @@ Mention académique ou personnel: Académique
 Réalisé dans le cadre du cours: Animation 3D - 582414MO       
 Individuel ou en équipe: Individuelle    
 Nom de vos coéquipiers: ...     
-Votre ou vos rôle(s) dans le projet: Animatrice 3D, coloriste et scénariste    
+Votre ou vos rôle(s) dans le projet: Animatrice 3D, modélisatrice, coloriste et scénariste    
 Logiciels ou techniques utilisées: Maya, Davinci Resolve  
 Catégorie du projet: Animation 3D     
 Description courte du projet (Résumé en 1 phrase): Court métrage d’animation explorant une atmosphère étrange et perturbante à travers le parcours d’un robot luttant pour assurer sa survie.   
@@ -120,14 +120,35 @@ Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai 
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):          
 
 
-# Processus de création
-Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet.
 
-- [ ] Nous devions d’abord créer une présentation PowerPoint présentant le concept du projet, accompagnée de moodboards, de palettes de couleurs et de références visuelles prévues pour guider la direction artistique. 
+# Processus de création :  Intervalle
+Nous devions d’abord créer une présentation PowerPoint présentant le concept du projet, accompagnée de moodboards, de palettes de couleurs et de références visuelles prévues pour guider la direction artistique. Nous devions ensuite planifier notre travail sur l’ensemble de la session; durant les 12 premières semaines, je me suis principalement consacrée à la conception du projet donc de l’environnement, des objets, l'audio et de l’éclairage des scènes, puis les semaines restantes ont été dédiées à la génération des séquences, à leur assemblage dans DaVinci Resolve, aux corrections nécessaires et aux dernières finitions.
 
-- [ ] Nous devions ensuite planifier notre travail sur l’ensemble de la session; durant les 12 premières semaines, je me suis principalement consacrée à la conception du projet donc de l’environnement, des objets, l'audio et de l’éclairage des scènes, puis les semaines restantes ont été dédiées à la génération des séquences, à leur assemblage dans DaVinci Resolve, aux corrections nécessaires et aux dernières finitions.
+### Synopsis
+Dans cette animation 3D immersive, les spectateurs sont transportés dans un univers froid et isolé, suivant un robot en panne dans un voyage désespéré. Avec la plupart de ses systèmes en panne, le robot lutte pour atteindre sa seule chance de survie :  une source de lumière lointaine. Les transitions subtiles et les défaillances imprévues du robot rendent cette ambiance étrange et perturbante.
 
+### Planche d'inspiration
+<img width="600" height="337" alt="Screenshot 2026-09-04 221118" src="https://github.com/user-attachments/assets/9a926633-4355-410e-a887-df7aa32b7aab" />
 
+### Plan de travail
+<img width="600" height="337" alt="Screenshot 2026-09-04 214853" src="https://github.com/user-attachments/assets/23724b0e-8b66-4520-aa68-c22efcbe99c5" />
 
+### Planche de références
+<img width="450" height="252" alt="Screenshot 2026-09-04 221313" src="https://github.com/user-attachments/assets/fb2f85b9-f0fd-44ee-991f-e08ce552545a" />
+<img width="450" height="252" alt="Screenshot 2026-09-04 221302" src="https://github.com/user-attachments/assets/f692c6a1-6f81-4744-8ad5-cc8444513562" />
+<img width="450" height="252" alt="Screenshot 2026-09-04 221344" src="https://github.com/user-attachments/assets/69c9560a-5430-4cbd-9e89-9978f51fa7d2" />
+<img width="450" height="252" alt="Screenshot 2026-09-04 221332" src="https://github.com/user-attachments/assets/93a675f6-229c-401d-a96a-10b7854c65a3" />
+
+### Scénarimage
+<img width="600" height="337" alt="Screenshot 2026-09-04 221441" src="https://github.com/user-attachments/assets/737ff72f-34c7-46e8-a800-85db8972d9d3" />
+
+### Objets 3D
+<img width="600" height="337" alt="Screenshot 2026-09-04 221528" src="https://github.com/user-attachments/assets/b69e64e5-6368-49b9-9445-3bafbc68f10f" />
+
+### Scènes 
+#### (avant les dernières finitions)
+<img width="450" height="252" alt="Screenshot 2026-09-04 221641" src="https://github.com/user-attachments/assets/ea5193d0-aea7-48ba-aa7b-be74ee746e17" />
+<img width="450" height="252" alt="Screenshot 2026-09-04 221618" src="https://github.com/user-attachments/assets/9988ff03-36ff-42e0-994d-b5ab6a02c023" />
+<img width="450" height="252" alt="Screenshot 2026-09-04 221602" src="https://github.com/user-attachments/assets/2befe137-e85e-426b-807c-fddddd465e4c" />
 
 
