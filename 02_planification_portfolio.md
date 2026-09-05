@@ -111,17 +111,23 @@ Mention académique ou personnel: Académique
 Réalisé dans le cadre du cours: Web 3 - 582-311MO       
 Individuel ou en équipe: Individuelle    
 Nom de vos coéquipiers: ...     
-Votre ou vos rôle(s) dans le projet: Designer et développeuse web    
+Votre ou vos rôle(s) dans le projet: Designer et développeuse web 
 Logiciels ou techniques utilisées: Visual Studio Code et Bootstrap    
 Catégorie du projet: Site Web     
-Description courte du projet (Résumé en 1 phrase): Concevoir un site de critiques sur n’importe quel film, série, livre, etc.
+Description courte du projet (Résumé en 1 phrase): Concevoir un site de critiques sur un film, une série ou un livre de notre choix.
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Le professeur nous a demandé de concevoir un site de critiques sur n’importe quelle œuvre d’art cinématographique ou créative qui nous plaisait. Il voulait que nous utilisions les techniques montrées en classe, notamment Bootstrap, pour le concevoir.    
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai décidé de faire le site sur les films Avatar, car je venais de découvrir cet univers et j’étais complètement passionnée par tout ce qui s’y rapportait. J’ai repris des couleurs similaires à celles utilisées dans les films et j’ai fait des recherches pour trouver des polices qui correspondaient bien à leur style.    
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai décidé de créer un site sur les films Avatar, car je venais de découvrir cet univers et j’étais passionnée par tout ce qui s’y rapportait; j’ai donc repris des couleurs similaires à celles des films et recherché des polices adaptées à leur style. L’utilisation de Bootstrap n’a pas été un obstacle, puisque je maîtrisais déjà le framework et savais comment l’utiliser pour obtenir le résultat visuel que je souhaitais.    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):          
 
 
 # Processus de création
-Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet. 
+Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet.
+
+- [ ] Nous devions d’abord créer une présentation PowerPoint présentant le concept du projet, accompagnée de moodboards, de palettes de couleurs et de références visuelles prévues pour guider la direction artistique. 
+
+- [ ] Nous devions ensuite planifier notre travail sur l’ensemble de la session; durant les 12 premières semaines, je me suis principalement consacrée à la conception du projet donc de l’environnement, des objets, l'audio et de l’éclairage des scènes, puis les semaines restantes ont été dédiées à la génération des séquences, à leur assemblage dans DaVinci Resolve, aux corrections nécessaires et aux dernières finitions.
+
+
 
 
 
