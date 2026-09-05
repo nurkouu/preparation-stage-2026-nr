@@ -54,10 +54,11 @@ Nom de vos coéquipiers: Manel Yaya et Sarah Muller François
 Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore.    
 Logiciels ou techniques utilisées: Davinci Resolve   
 Catégorie du projet: Montage Vidéo     
-Description courte du projet (Résumé en 1 phrase): Une jeune fille se maquille pour se sentir mieux dans sa peau, mais elle réalise peu à peu qu’elle n’a pas besoin de maquillage ni de l’approbation des autres pour se sentir belle.    
+Description courte du projet (Résumé en 1 phrase): Court métrage racontant l’histoire d’une jeune fille qui se maquille pour se sentir mieux dans sa peau, mais qui réalise peu à peu qu’elle n’a besoin ni de maquillage ni de l’approbation des autres pour se sentir belle.  
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): On devait créer une vidéo expérimentale de 1 minute 30 sur le corps humain, où l’accumulation d’images et de sons exprime une émotion, une matière ou raconte une histoire sans paroles. L’objectif était d’utiliser le corps comme langage visuel et sonore, à travers une approche sensorielle, poétique ou abstraite.     
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Nous devions filmer 20 parties différentes du corps en utilisant les outils fournis et intégrer des effets visuels comme le ralenti, l’accélération et des mouvements fluides. Nous devions aussi créer un micro-montage sonore en ajoutant des effets comme l’inversion, la réverbération et des variations de fréquences.    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+
 
 # Projet 2 
 Nom de votre projet: Armorade    
@@ -69,8 +70,8 @@ Votre ou vos rôle(s) dans le projet: Game designeuse et programmeuse.
 Logiciels ou techniques utilisées: Phaser v3 et HTML5   
 Catégorie du projet: Jeux Vidéo     
 Description courte du projet (Résumé en 1 phrase): Armorade est un jeu d’aventure en 2D où une chasseuse explore une forêt mystérieuse, améliore ses capacités et affronte des ennemis pour s’échapper.    
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Le professeur voulait que nous utilisions des mécaniques de progression simples, puisque ce serait notre premier jeu vidéo. Il voulait aussi que nous ayons des prérequis afin que le jeu soit plus amusant à jouer et qu’il ait réellement un objectif.    
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Je voulais créer un jeu avec une thématique d’aventure, ce qui m’a fait penser à une chasseuse, mais ce n’était pas mon idée de départ. Après les commentaires du professeur, beaucoup de choses ont changé et j’ai finalement décidé de m’inspirer du concept et des mécaniques classiques de Rayman Adventures, surtout le fait de récolter des pièces pour acheter des objets ou débloquer certaines choses, plutôt que de reprendre son esthétique.    
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Le professeur voulait que nous utilisions des mécaniques de progression simples, puisque ce serait notre premier jeu vidéo. Il insistait vraiment que nous ayons des prérequis afin que le jeu soit plus amusant à jouer et qu’il ait réellement un objectif.    
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Je souhaitais créer un jeu avec une thématique d’aventure, ce qui m’a naturellement orientée vers le concept d’une chasseuse, bien que ce ne soit pas mon idée initiale. Avec les commentaires du professeur, beaucoup de choses ont changé et j’ai finalement décidé de m’inspirer du concept et des mécaniques classiques de Rayman Adventures, surtout le fait de récolter des pièces pour acheter des objets ou débloquer certaines choses, plutôt que de reprendre son esthétique.    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 
@@ -80,55 +81,43 @@ Mention académique ou personnel: Académique
 Réalisé dans le cadre du cours: Web 4 - 582-411MO       
 Individuel ou en équipe: Individuelle    
 Nom de vos coéquipiers: ...     
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet: Web     
-Description courte du projet (Résumé en 1 phrase):     
+Votre ou vos rôle(s) dans le projet: Designer et développeuse web    
+Logiciels ou techniques utilisées: Wordpress   
+Catégorie du projet: Site Web     
+Description courte du projet (Résumé en 1 phrase): Concevoir un site web pour une entreprise souhaitant promouvoir et vendre ses produits.     
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  On devait concevoir un site web WordPress complet pour un client ayant une petite entreprise. L’objectif était de créer un site qui pourrait réellement être mis en ligne pour une entreprise, tant au niveau du contenu que de l’apparence.   
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Parmi les choix offerts par le professeur, j’ai choisi de concevoir un site web pour une entreprise souhaitant vendre ses jus. Pour y parvenir, j’ai utilisé plusieurs techniques présentées en classe, ainsi que les fonctionnalités de WordPress et les extensions demandées par le professeur.
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
-# Projet 4
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+
+# Projet 4 
+Nom de votre projet: Intervalle    
+Mention académique ou personnel: Académique   
+Réalisé dans le cadre du cours: Animation 3D - 582414MO       
+Individuel ou en équipe: Individuelle    
+Nom de vos coéquipiers: ...     
+Votre ou vos rôle(s) dans le projet: Animatrice 3D, coloriste et scénariste    
+Logiciels ou techniques utilisées: Maya, Davinci Resolve  
+Catégorie du projet: Animation 3D     
+Description courte du projet (Résumé en 1 phrase): Court métrage d’animation explorant une atmosphère étrange et perturbante à travers le parcours d’un robot luttant pour assurer sa survie.   
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Il était demandé de créer un environnement 3D et plusieurs séquences d’animation inspirées de l’audio réalisé dans le cours d'audio 2. Nous devions ensuite les utiliser pour créer un court métrage 3D percutant et émotionnel.  
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Ce projet m’a demandé beaucoup de temps et de patience, notamment pour générer chaque séquence et m’assurer de leur cohérence avant de les assembler. À la suite des commentaires positifs de la professeure, j’ai modifié la couleur du robot dans DaVinci Resolve plutôt que de tout régénérer dans Maya, ce qui m’a permis d’améliorer mes compétences en masquage et en colorisation.   
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):   
+
 
 # Projet 5 (Optionnel)
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
-
-# Projet 6 (Optionnel)
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+Nom de votre projet: Avatar : The way of the water     
+Mention académique ou personnel: Académique    
+Réalisé dans le cadre du cours: Web 3 - 582-311MO       
+Individuel ou en équipe: Individuelle    
+Nom de vos coéquipiers: ...     
+Votre ou vos rôle(s) dans le projet: Designer et développeuse web    
+Logiciels ou techniques utilisées: Visual Studio Code et Bootstrap    
+Catégorie du projet: Site Web     
+Description courte du projet (Résumé en 1 phrase): Concevoir un site de critiques sur n’importe quel film, série, livre, etc.
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Le professeur nous a demandé de concevoir un site de critiques sur n’importe quelle œuvre d’art cinématographique ou créative qui nous plaisait. Il voulait que nous utilisions les techniques montrées en classe, notamment Bootstrap, pour le concevoir.    
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai décidé de faire le site sur les films Avatar, car je venais de découvrir cet univers et j’étais complètement passionnée par tout ce qui s’y rapportait. J’ai repris des couleurs similaires à celles utilisées dans les films et j’ai fait des recherches pour trouver des polices qui correspondaient bien à leur style.    
+Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):          
 
 
 # Processus de création
