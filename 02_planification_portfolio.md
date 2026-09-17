@@ -150,7 +150,12 @@ Dans cette animation 3D immersive, les spectateurs sont transportés dans un uni
 ### Scènes 
 #### (avant les dernières finitions)
 <img width="450" height="252" alt="Screenshot 2026-09-04 221641" src="https://github.com/user-attachments/assets/ea5193d0-aea7-48ba-aa7b-be74ee746e17" />
+
 <img width="450" height="252" alt="Screenshot 2026-09-04 221618" src="https://github.com/user-attachments/assets/9988ff03-36ff-42e0-994d-b5ab6a02c023" />
 <img width="450" height="252" alt="Screenshot 2026-09-04 221602" src="https://github.com/user-attachments/assets/2befe137-e85e-426b-807c-fddddd465e4c" />
 
 
+
+
+# Identité de marque
+<img width="400" height="961" alt="Prep-travail" src="https://github.com/user-attachments/assets/378ad8b5-be1d-4084-8e20-3e9f7915acc8" />
