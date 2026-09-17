@@ -43,7 +43,7 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [ ] Connaissance de systèmes de gestion de contenu (CMS)
 
 # Objectif de carrière
-Copier-coller votre objectif de carrière ici. 
+Je souhaite rejoindre une équipe dans le domaine de la création numérique en tant que designer multimédia, où je pourrai combiner mes compétences techniques et créatives en 3D, design web et montage vidéo.
 
 # Projet 1 
 Nom de votre projet: Imparfaite  
