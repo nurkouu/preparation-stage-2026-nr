@@ -56,7 +56,7 @@ Logiciels ou techniques utilisées: Davinci Resolve
 Catégorie du projet: Montage Vidéo     
 Description courte du projet (Résumé en 1 phrase): Court métrage racontant l’histoire d’une jeune fille qui se maquille pour se sentir mieux dans sa peau, mais qui réalise peu à peu qu’elle n’a besoin ni de maquillage ni de l’approbation des autres pour se sentir belle.  
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): On devait créer une vidéo expérimentale de 1 minute 30 sur le corps humain, où l’accumulation d’images et de sons exprime une émotion, une matière ou raconte une histoire sans paroles. L’objectif était d’utiliser le corps comme langage visuel et sonore, à travers une approche sensorielle, poétique ou abstraite.     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Nous devions filmer 20 parties différentes du corps en utilisant les outils fournis et intégrer des effets visuels comme le ralenti, l’accélération et des mouvements fluides. Nous devions aussi créer un micro-montage sonore en ajoutant des effets comme l’inversion, la réverbération et des variations de fréquences.    
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Nous devions filmer 20 parties différentes du corps en utilisant les outils fournis et intégrer des effets visuels comme le ralenti, l’accélération et des mouvements fluides. Nous devions aussi créer un micro-montage sonore en ajoutant des effets comme l’inversion, la réverbération et des variations de fréquences. (**Dans le cadre du Concours d’essais audiovisuels 2025, mon équipe et moi avons présenté le projet ce qui nous a permis de remporter une bourse en argent.**)    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): https://1drv.ms/f/c/5e58caf2d9e77ae6/IgCLtLJVUJKTSKCRbHQZXnyBAVI3o1PUU1WukrFWc7wW7wA?e=K7QJZY
 
 
@@ -87,7 +87,7 @@ Logiciels ou techniques utilisées: Wordpress
 Catégorie du projet: Site Web     
 Description courte du projet (Résumé en 1 phrase): Concevoir un site web pour une entreprise souhaitant promouvoir et vendre ses produits.     
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  On devait concevoir un site web WordPress complet pour un client ayant une petite entreprise. L’objectif était de créer un site qui pourrait réellement être mis en ligne pour une entreprise, tant au niveau du contenu que de l’apparence.   
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Parmi les choix offerts par le professeur, j’ai choisi de concevoir un site web pour une entreprise souhaitant vendre ses jus. Pour y parvenir, j’ai utilisé plusieurs techniques présentées en classe, ainsi que les fonctionnalités de WordPress et les extensions demandées par le professeur.
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): Parmi les choix offerts par le professeur, j’ai choisi de concevoir un site web pour une entreprise souhaitant vendre ses jus. Pour y parvenir, j’ai utilisé plusieurs techniques présentées en classe, ainsi que les fonctionnalités de WordPress et les extensions demandées par le professeur comme Elementor un constructeur de site, WooCommerce, Produit Addons et plus.
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...): https://1drv.ms/f/c/5e58caf2d9e77ae6/IgCLtLJVUJKTSKCRbHQZXnyBAVI3o1PUU1WukrFWc7wW7wA?e=K7QJZY    
 
 
@@ -123,7 +123,8 @@ Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, .
 
 
 # Processus de création :  Intervalle
-Nous devions d’abord créer une présentation PowerPoint présentant le concept du projet, accompagnée de moodboards, de palettes de couleurs et de références visuelles prévues pour guider la direction artistique. Nous devions ensuite planifier notre travail sur l’ensemble de la session; durant les 12 premières semaines, je me suis principalement consacrée à la conception du projet donc de l’environnement, des objets, l'audio et de l’éclairage des scènes, puis les semaines restantes ont été dédiées à la génération des séquences, à leur assemblage dans DaVinci Resolve, aux corrections nécessaires et aux dernières finitions.
+Nous devions d’abord créer une présentation PowerPoint présentant le concept du projet, accompagnée de moodboards, de palettes de couleurs et de références visuelles prévues pour guider la direction artistique. Nous devions ensuite planifier notre travail sur l’ensemble de la session; durant les 12 premières semaines, je me suis principalement consacrée à la conception du projet donc de l’environnement, des objets, l'audio et de l’éclairage des scènes, puis les semaines restantes ont été dédiées à la génération des séquences, à leur assemblage dans DaVinci Resolve, aux corrections nécessaires et aux dernières finitions. J’ai également décidé de participer au Concours d’essais audiovisuels 2025 en soumettant *Intervalle*, qui m’avait permis de remporter le prix dans la catégorie « Projet paysage ».
+
 
 ### Synopsis
 Dans cette animation 3D immersive, les spectateurs sont transportés dans un univers froid et isolé, suivant un robot en panne dans un voyage désespéré. Avec la plupart de ses systèmes en panne, le robot lutte pour atteindre sa seule chance de survie :  une source de lumière lointaine. Les transitions subtiles et les défaillances imprévues du robot rendent cette ambiance étrange et perturbante.
