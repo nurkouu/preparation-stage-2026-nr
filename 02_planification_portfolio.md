@@ -67,7 +67,7 @@ Mention académique ou personnel: Académique
 Réalisé dans le cadre du cours: Intéractivité ludique - 582-301MO      
 Individuel ou en équipe: Individuelle    
 Nom de vos coéquipiers: ...
-Votre ou vos rôle(s) dans le projet: Game designeuse et programmeuse.     
+Votre ou vos rôle(s) dans le projet: Game designeuse, programmeuse et UI designeuse.     
 Logiciels ou techniques utilisées: Phaser v3 et HTML5   
 Catégorie du projet: Jeux Vidéo     
 Description courte du projet (Résumé en 1 phrase): Armorade est un jeu d’aventure en 2D où une chasseuse explore une forêt mystérieuse, améliore ses capacités et affronte des ennemis pour s’échapper.    
