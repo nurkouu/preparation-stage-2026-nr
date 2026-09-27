@@ -52,7 +52,7 @@ Réalisé dans le cadre du cours: Vidéo 2 - 582312MO
 Individuel ou en équipe: Équipe    
 Nom de vos coéquipiers: Manel Yaya et Sarah Muller François     
 Votre ou vos rôle(s) dans le projet: Cadreuse, monteuse vidéo / sonore.    
-Logiciels ou techniques utilisées: Davinci Resolve   
+Logiciels ou techniques utilisées: Davinci Resolve et Reaper   
 Catégorie du projet: Montage Vidéo     
 Description courte du projet (Résumé en 1 phrase): Court métrage racontant l’histoire d’une jeune fille qui se maquille pour se sentir mieux dans sa peau, mais qui réalise peu à peu qu’elle n’a besoin ni de maquillage ni de l’approbation des autres pour se sentir belle.  
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): On devait créer une vidéo expérimentale de 1 minute 30 sur le corps humain, où l’accumulation d’images et de sons exprime une émotion, une matière ou raconte une histoire sans paroles. L’objectif était d’utiliser le corps comme langage visuel et sonore, à travers une approche sensorielle, poétique ou abstraite.     
@@ -98,7 +98,7 @@ Réalisé dans le cadre du cours: Animation 3D - 582414MO
 Individuel ou en équipe: Individuelle    
 Nom de vos coéquipiers: ...     
 Votre ou vos rôle(s) dans le projet: Animatrice 3D, modélisatrice, coloriste et scénariste    
-Logiciels ou techniques utilisées: Maya, Davinci Resolve  
+Logiciels ou techniques utilisées: Maya, Davinci Resolve et Reaper 
 Catégorie du projet: Animation 3D     
 Description courte du projet (Résumé en 1 phrase): Court métrage d’animation explorant une atmosphère étrange et perturbante à travers le parcours d’un robot luttant pour assurer sa survie.   
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Il était demandé de créer un environnement 3D et plusieurs séquences d’animation inspirées de l’audio réalisé dans le cours d'audio 2. Nous devions ensuite les utiliser pour créer un court métrage 3D percutant et émotionnel.  
