@@ -1,7 +1,7 @@
 # Identification
-Ton nom:     
-Ta ville:     
-Ton courriel:     
+Ton nom: Nurlika Richard    
+Ta ville: Laval     
+Ton courriel: nrichardd25@gmail.com    
 Lien vers ton portfolio:     
 
 # Objectif de carrière
