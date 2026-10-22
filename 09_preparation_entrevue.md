@@ -4,7 +4,7 @@
 
 2. Quelles sont vos forces principales ? Donnez un exemple.     
 
-3. Quelle est une de vos difficultés et comment travaillez-vous à l’améliorer ?     
+3. Quelle est une de vos difficultés et comment travaillez-vous à l’améliorer ?    Les oraux, je n'aime pas les faire mais je sais que c'est quelques choses qui va revenir dans tout ce que je dois faire alors c'est quelque chose que je dois m'améliorer. 
 
 4. Pourquoi voulez-vous faire votre stage chez nous ?       
 
