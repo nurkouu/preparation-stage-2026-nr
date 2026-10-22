@@ -2,38 +2,41 @@
 Ton nom: Nurlika Richard    
 Ta ville: Laval     
 Ton courriel: nrichardd25@gmail.com    
-Lien vers ton portfolio:     
+Lien vers ton portfolio: https://nurkouu.github.io/portfolio-nurlika-richard/    
 
 # Objectif de carrière
-Copier-coller depuis ton journal de bord. 
+Je souhaite rejoindre une équipe dans le domaine de la création numérique en tant que designer multimédia, où je pourrai combiner mes compétences techniques et créatives en 3D, en design web et en montage vidéo.
 
 
-# Formation
-Il n'est pas nécessaire d'inscrire votre secondaire à moins d'avoir suivi un programme spécialisé. Copier-coller les éléments suivants au besoin. Vous avez une formation de sauveteur? Un cours de premier soin? On l'inscrit ici. 
+# Formation 
 
-Établissement fréquenté:      
-Nom de votre programme:    
-Date de début et de fin:     
-Ville:     
+Établissement fréquenté: Collège Montmorency     
+Nom de votre programme: Technique d'intégration multimédia   
+Date de début et de fin: 2023 - 2027    
+Ville: Laval    
 
 # Emploi
-Copier-coller les éléments suivants pour chaque emploi que vous avez occupé: 
 
-Titre de l'emploi:     
-Nom de l'entreprise:     
-Année de début et de fin:      
-Ville:    
+Titre de l'emploi: Équipière    
+Nom de l'entreprise: Tim Hortons    
+Année de début et de fin: 2021 - 2022     
+Ville: Laval     
 
-Pour les tâches, vous devez écrire en point de forme (maximum 3), vos phrases devraient être le plus courtes possibles et commencer par un verbe d'action (Exemple: Nettoyer les surfaces de travail, créer les horaires, ...)    
-Tâches:    
+* Prendre les commandes (services au volant et à la caisse)
+* Stock up (remplissage de tout)
+* Nettoyage
 
-*
-*
-*
+Titre de l'emploi: Formatrice de la cuisine    
+Nom de l'entreprise: Mcdonald's    
+Année de début et de fin: 2023 - auj     
+Ville: Laval     
+
+* Employée polyvalente en cuisine, formatrice 
+* Responsable du remplissage des stocks
+* Nettoyage
 
 
 # Réalisations scolaires
-Si applicable
 
 ## Bourse
 Nom de la bourse reçue:     
