@@ -24,12 +24,12 @@ Cochez les logiciels avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 - [x] Davinci Resolve
 - [x] Maya
 - [ ] Unity
-- [ ] Reaper
+- [x] Reaper
 - [ ] Ableton Live
 - [ ] Max
 - [ ] Arduino
 - [ ] MadMapper
-- [ ] Microsoft Teams
+- [x] Microsoft Teams
 
 # Langage de programmation
 Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:    
