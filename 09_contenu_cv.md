@@ -28,7 +28,7 @@ Ville: Laval
 
 Titre de l'emploi: Formatrice de la cuisine    
 Nom de l'entreprise: Mcdonald's    
-Année de début et de fin: 2023 - auj     
+Année de début et de fin: 2023 - aujourd'hui    
 Ville: Laval     
 
 * Employée polyvalente en cuisine, formatrice 
@@ -39,11 +39,17 @@ Ville: Laval
 # Réalisations scolaires
 
 ## Bourse
-Nom de la bourse reçue:     
-Organisme donnant la bourse:     
-Date de réception:     
-Ville:     
-Courte description de la bourse (1 phrase):     
+Nom de la bourse reçue: Concours d'essais audiovisuels -  Catégorie Vidéo   
+Organisme donnant la bourse: Fondation Collège Montmorency     
+Date de réception: 2025    
+Ville: Laval    
+Courte description de la bourse (1 phrase): Parmi toutes les catégories présentées, mon équipe et moi avons eu la chance de remporter une bourse dans la catégorie vidéo grâce à notre micro-montage qui se nomme Imparfaite. 
+
+Nom de la bourse reçue: Concours d'essais audiovisuels -  Catégorie Projet Paysage  
+Organisme donnant la bourse: Fondation Collège Montmorency     
+Date de réception: 2025    
+Ville: Laval    
+Courte description de la bourse (1 phrase): Parmi toutes les catégories présentées, j'ai eu la chance de remporter une bourse dans la catégorie « Projet paysage » grâce à mon court métrage qui se nomme Intervalle.   
 
 ## Implication
 Titre de ton poste:     
@@ -81,13 +87,13 @@ Tâches:
 ## Logiciels  
 Liste de quelques logiciels que tu maîtrise:       
 
-*
-* 
+* Visual Studio Code
+* Figma
 * 
 
 ## Langage de programmation    
-*
-*
+* Html
+* Css
 
 
 # Loisirs ou intérêts
