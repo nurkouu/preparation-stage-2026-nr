@@ -84,32 +84,32 @@ Tâches:
 
 # Compétences
 
-## Logiciels  
-Liste de quelques logiciels que tu maîtrise:       
+## Logiciels 
 
 * Visual Studio Code
 * Figma
-* 
+* Davinci Resolve
+* Maya
+* Reaper
 
-## Langage de programmation    
+## Langage de programmation 
+
 * Html
 * Css
 
 
 # Loisirs ou intérêts
-Liste de tes loisirs ou intérêts en un mot:     
 
-*
-*
-*
-* 
+* Art
+* Musique
+* Cinéma
+* Graphisme
 
-# Langues
-Liste des langues que tu maîtrise:     
+# Langues    
 
-* 
-* 
-* 
+* Anglais
+* Français
+
 
 
 
