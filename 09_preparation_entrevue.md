@@ -27,22 +27,22 @@ Avec Intervalle, mon prof m'avait demander de regénérer quelques scènes pour 
 
 ## Ma stratégie personnelle
 3 points-clés que je veux absolument communiquer en entrevue :  
-1.     
-2.     
-3.      
+1. Organisation    
+2. Ponctualité    
+3. Responsabilité     
 
 ## Recherche sur l'entreprise
 Choisissez une entreprise, nous simulerons que c'est elle qui vous passe en entrevue la semaine prochaine.
 
-Nom de l'entreprise: 
-Domaine: 
-Mes impressions: 
-Nom d'un projet intéressant et pourquoi: 
-Valeur commune: 
+Nom de l'entreprise: Studio Comète
+Domaine: Animation
+Mes impressions: Ils sont très simples, ils travaillent avec différents types de clients (des écoles, des entreprises, etc.), mais ils sont très professionnels dans ce qu’ils font, puisque certains de leurs clients reviennent régulièrement.
+Nom d'un projet intéressant et pourquoi: Leurs projets avec Sports Experts ont attiré mon attention, parce que j’ai trouvé leur travail vraiment épuré et simple, tout en étant super professionnel.
+Valeur commune: Épuré, minimalist, simple, fluid 
 
 ## Préparation des questions à poser
 Préparez des questions pour l'entreprise qui vous passe en entrevue.
 *(au moins 2 questions pertinentes à préparer pour la simulation)*  
 
-1. 
-2. 
+1. Pendant le stage, est-ce que je travaillerais surtout en équipe avec vous ou est-ce que j’aurais plutôt du travail à réaliser de façon plus autonome?
+2. Est-ce qu’on ferait surtout de la création pendant le stage? Et est-ce qu’on aurait la possibilité de choisir ce qu’on aimerait faire, comme de l’animation, de l’illustration ou faire les storyboards?
