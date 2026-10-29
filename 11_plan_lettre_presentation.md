@@ -5,8 +5,8 @@ Votre courriel: nrichardd25@gmail.com
 Votre ville: Laval    
 
 Nom du destinataire de la lettre: Ismael Mossadeq    
-Poste du destinataire de la lettre:  À compléter    
-Adresse de la compagnie:  À compléter    
+Poste du destinataire de la lettre: Fondateur de Comète   
+Adresse de la compagnie: 4554 Rue Parthenais, Montreal QC H2H 2G7  
 
 Date: 28 octobre 2026    
 
