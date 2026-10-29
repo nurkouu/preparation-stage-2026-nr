@@ -2,22 +2,22 @@
 ## Description
 Quelle est l'entreprise où tu voudrais faire ton stage? : Studio Comète    
 Quel est le secteur d'activité de l'entreprise? :  Animation, montage, illustration, motion  
-Combien d'employés compte l'entreprise? :     
-Nomme un exemple de client de l'entreprise:     
-Quel est le nom de la personne responsable des ressources humaines ou du président de l'entreprise? :     
-Pourquoi cette entreprise t'intéresse? (1 phrase):      
+Combien d'employés compte l'entreprise? : ?    
+Nomme un exemple de client de l'entreprise: Sports Experts    
+Quel est le nom de la personne responsable des ressources humaines ou du président de l'entreprise? : Ismail Mossadeq    
+Pourquoi cette entreprise t'intéresse? (1 phrase): J'aime leur style de travail et qu'est ce qu'ils ont déjà fait avec différents compagnies comme Sports Experts par exemple.      
 
 ## Projets
 Explorer le site de l'entreprise et choisissez un projet intéressant.   
-Nomme le projet sélectionné:     
-Courte description du projet (2 phrases):     
-Quelle est l'année de réalisation du projet? :     
-Pourquoi as-tu choisi ce projet? (1 phrase):     
-Quel poste t'aurait intéressé dans ce projet? :     
+Nomme le projet sélectionné: Émile Bilodeau   
+Courte description du projet (2 phrases): Ils ont réalisé le vidéoclip officiel de la chanson d’Émile Bilodeau. Ils ont utilisé un style de carnet de croquis (sketchbook) et opté pour une esthétique plus minimaliste afin de raconter l’histoire que l’artiste souhaitait transmettre. 
+Quelle est l'année de réalisation du projet? : 22 Février 2022    
+Pourquoi as-tu choisi ce projet? (1 phrase): J'aime le style et l'esthétique utilisé.    
+Quel poste t'aurait intéressé dans ce projet? : Le montage mais sinon animer quelques éléments m'intéresseraient.    
 
 ## Valeur
 Consulte la section à propos de l'entreprise. 
-Nomme une valeur de l'entreprise qui résonne avec toi:     
+Nomme une valeur de l'entreprise qui résonne avec toi:      
 Pourquoi cette valeur est importante pour toi? (2 phrases):     
 
 # Poste
