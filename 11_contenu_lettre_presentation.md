@@ -1,7 +1,7 @@
 # Compagnie
 ## Description
 Quelle est l'entreprise où tu voudrais faire ton stage? : Studio Comète    
-Quel est le secteur d'activité de l'entreprise? :  Animation, montage, illustration ...  
+Quel est le secteur d'activité de l'entreprise? :  Animation, montage, illustration, motion  
 Combien d'employés compte l'entreprise? :     
 Nomme un exemple de client de l'entreprise:     
 Quel est le nom de la personne responsable des ressources humaines ou du président de l'entreprise? :     
