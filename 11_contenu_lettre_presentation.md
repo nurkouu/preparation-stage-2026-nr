@@ -21,8 +21,11 @@ Nomme une valeur de l'entreprise qui résonne avec toi:
 Pourquoi cette valeur est importante pour toi? (2 phrases):     
 
 # Poste
-Quel est le poste que tu aimerais occuper comme stagiaire?:    
-Nomme une compétence en multimédia qui te serait utile pour ce poste:     
-Pourquoi cette compétence te serait utile? (1 phrase):     
-Nomme une qualité personnelle qui te serait utile pour le poste:     
-Pourquoi cette qualité est utile? (1 phrase):     
+Quel est le poste que tu aimerais occuper comme stagiaire?: Animatrice ou monteuse vidéo   
+Nomme une compétence en multimédia qui te serait utile pour ce poste: La maîtrise des logiciels d'animation comme Maya et davinci resolve.
+Pourquoi cette compétence te serait utile? (1 phrase): Ça me serait utile pour créer de belles images et vidéos, faire des montages et rendre le contenu plus intéressant et attrayant.     
+Nomme une qualité personnelle qui te serait utile pour le poste: Mon détermination / ma crétaivité / ma patience   
+Pourquoi cette qualité est utile? (1 phrase): La patience est utile parce qu’elle permet de bien faire les choses, de rester calme et de trouver des solutions aux problèmes.
+
+
+    
